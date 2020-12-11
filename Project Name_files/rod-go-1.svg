@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81 12" width="81" height="12">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="86095.738" y1="0" x2="0" y2="0">
+			<stop offset="0" stop-color="#ddf6bc"  />
+			<stop offset="100" stop-color="#86e9bc"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="9285.749" y1="609.463" x2="11149.202" y2="609.463">
+			<stop offset="0" stop-color="#ddf6bc"  />
+			<stop offset="100" stop-color="#d4f4d3"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+		.shp1 { fill: none;stroke: url(#grd1);stroke-linecap:round;stroke-width: 4 } 
+		.shp2 { fill: url(#grd2) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<g id="Layer">
+					<g id="Layer">
+						<g id="Layer">
+							<path id="7uvz3odwwb" fill-rule="evenodd" class="shp0" d="M-259 6L699 6" />
+							<path id="7uvz3odwwb" fill-rule="evenodd" class="shp1" d="M-259 6L699 6" />
+						</g>
+						<g id="Layer">
+							<g id="Layer">
+								<path id="vpiugsdwse" fill-rule="evenodd" class="shp2" d="M69 12C81.15 13 80.85 6 81 6C81.15 6 81.15 -1 69 0C60.9 0.67 26.9 2.67 -33 6C26.9 9.33 60.9 11.33 69 12Z" />
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
