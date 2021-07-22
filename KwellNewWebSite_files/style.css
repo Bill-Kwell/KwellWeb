@@ -2359,4 +2359,36 @@ a:hover, a:focus{
 .mt_60{
 	margin-top: 60px !important;
 }
+/*************23-07-21 start*************/
+
+.modal_area_2{
+	max-width: 410px;
+}
+.modal_fda_list{
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+.modal_fda_list .col-md-6{
+	padding: 0;
+	-ms-flex: 0 0 48%;
+    flex: 0 0 48%;
+    max-width: 48%;
+}
+.modal_fda_list a{
+	font-size: 16px;
+	color: #91EAB0;
+	font-weight: 600;
+	line-height: 34px;
+	white-space: nowrap;
+}
+.modal_fda_list_item{
+	padding-top: 15px;
+}
+.modal_fda_list_item span{
+	margin-right: 5px;
+}
+.modal_area_2 .madal_next_btn button {
+    width: 168px;
+}
 
